@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "8e46",
+      "name": "Raj Patil",
+      "phone": "569845875",
+      "email": "raj@gmail.com"
+    },
+    {
+      "id": "64dd",
+      "name": "Raju",
+      "phone": "98765456",
+      "email": "raju@gmail.c"
+    }
+  ]
+}
